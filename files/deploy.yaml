@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: spring-boot-app
-          image: kumari3123/springboot:12
+          image: kumari3123/springboot:13
           ports:
             - containerPort: 8080
